@@ -1,4 +1,4 @@
-# DrStrangeCode
+# test_2_readme
 Code review site
 ## Main Points
 :white_check_mark: User login
